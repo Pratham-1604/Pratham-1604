@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Prathamesh Mundada
 
 <!--
 **Pratham-1604/Pratham-1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### A Curious full-stack developer with an appetite for learning and a passion for problem-solving and turning ideas to code.
+
+- My tech stack includes Flutter, React, Express.js, and various databases
+- I'm diving deep into Blockchain Technology and Machine Learning
+- I'm also interested in cybersecurity
+
+I'm passionate about collaborating on innovative projects that create real value. Whether it's developing complex web and mobile apps, blockchain solutions, or AI-driven tools, I'm always eager to tackle new challenges that push me to improve. 
+
+Here is my [resume](https://drive.google.com/drive/u/0/folders/1DR9cVZ-tcEWf-pF4GgCnrLO72QRispqq)

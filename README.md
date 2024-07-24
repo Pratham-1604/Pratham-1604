@@ -44,7 +44,7 @@ I'm a Full Stack Developer 💻, Gamer 🎮
 
 I'm passionate about collaborating on innovative projects that create real value. Whether it's developing complex web and mobile apps, blockchain solutions, or AI-driven tools, I'm always eager to tackle new challenges that push me to improve. 
 
-Here is my [resume](https://drive.google.com/drive/u/0/folders/1DR9cVZ-tcEWf-pF4GgCnrLO72QRispqq)
+Here is my [resume](https://drive.google.com/file/d/1eUu0xkQb-L8XFgsiQb06BZWc9B2viMt1/view?usp=sharing)
 
 If you have an exciting project or collaboration in mind, feel free to reach out—let's build something extraordinary together!
 

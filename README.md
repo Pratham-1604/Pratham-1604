@@ -2,7 +2,7 @@
 Hi there, I'm Prathamesh Mundada </a> 👋
 </h3>
 <h2 align="center">
-I'm a Full Stack Web Developer 💻, Gamer 🎮
+I'm a Full Stack Developer 💻, Gamer 🎮
 </h2> 
 
 <h4 align = "center">

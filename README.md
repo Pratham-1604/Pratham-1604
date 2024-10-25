@@ -53,8 +53,4 @@ If you have an exciting project or collaboration in mind, feel free to reach out
 <a href="https://www.linkedin.com/in/prathamesh-mundada-061aa822a/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathamesh Mundada" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/prathamesh_mundada/">
-  <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Prathamesh Mundada | Instagram" height="30" width="40" />
-</a>
-
 </p>
